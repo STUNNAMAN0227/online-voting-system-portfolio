@@ -1,5 +1,5 @@
 # online-voting-system-portfolio
-🗳 Online Voting System (Backend)
+🗳 Online Voting System
 
 Overview
 
